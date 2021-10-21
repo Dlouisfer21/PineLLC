@@ -1,6 +1,18 @@
 @charset "utf-8";
-head {
-	box-align: center
+h1 {
+	margin: 25px;
+	text-align: center;
+}
+p {
+	margin-left: 25px;
+	text-align: center;
+}
+.ServiceButtons {
+	padding: 10px;
+	
+	margin-left: 32%;
+	margin-right: 20%;
+	margin-top: 50px;
 }
 .Snow {
 	margin-left: 25px;
