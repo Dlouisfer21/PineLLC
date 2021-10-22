@@ -1,8 +1,10 @@
+
+
 <!doctype html>
 <html>
+  <head>
+  </head>
   <body>
-    <head>
-    </head>
      <a  class="Homepage" href='/PineLLC/Car Detailing/CarDetailingHomepage.html'>Return to Car Detailing Homepage </button><br>
             <a  class="Homepage" href='/PineLLC/Homepage.html'>Return to Pine Homepage </button>
   </body>
